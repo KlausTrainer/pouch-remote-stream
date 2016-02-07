@@ -5,6 +5,8 @@ module.exports = [
   'get',
   '_bulkDocs',
   'allDocs',
+  'revsDiff',
   '_id',
   '_getRevisionTree',
+  '_info',
 ];
